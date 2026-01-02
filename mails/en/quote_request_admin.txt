@@ -1,0 +1,15 @@
+New Quote Request Received
+
+Customer: {customer_name}
+Email: {customer_email}
+Phone: {customer_phone}
+
+Product: {product_name}
+Quantity: {quantity}
+
+Customer Message:
+{message}
+
+Manage Quote: {admin_url}
+
+Shop: {shop_name}

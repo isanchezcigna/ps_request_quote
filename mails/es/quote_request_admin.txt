@@ -1,0 +1,15 @@
+Nuevo pedido de cotización recibido
+
+Cliente: {customer_name}
+Correo: {customer_email}
+Teléfono: {customer_phone}
+
+Producto: {product_name}
+Cantidad: {quantity}
+
+Mensaje del cliente:
+{message}
+
+Gestionar cotización: {admin_url}
+
+Tienda: {shop_name}

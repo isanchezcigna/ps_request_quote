@@ -1,0 +1,17 @@
+services:
+  ps_request_quote.hooks:
+    class: PrestaShop\Module\PsRequestQuote\Hook\QuoteHook
+    arguments:
+      - '@translator'
+      - '@doctrine.orm.entity_manager'
+
+  ps_request_quote.database:
+    class: PrestaShop\Module\PsRequestQuote\Service\QuoteService
+    arguments:
+      - '@prestashop.adapter.legacy.context'
+
+  ps_request_quote.email:
+    class: PrestaShop\Module\PsRequestQuote\Service\EmailService
+    arguments:
+      - '@mailer'
+      - '@translator'

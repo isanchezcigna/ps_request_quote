@@ -1,0 +1,29 @@
+{
+  "name": "syntaxit/ps_request_quote",
+  "description": "PrestaShop 9 module for request a quote system - Replace add to cart with request quote button",
+  "version": "1.0.0",
+  "license": "Commercial",
+  "authors": [
+    {
+      "name": "Syntax It",
+      "email": "support@syntaxit.cl",
+      "homepage": "https://syntaxit.cl"
+    }
+  ],
+  "require": {
+    "php": ">=8.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PrestaShop\\Module\\PsRequestQuote\\": "src/"
+    },
+    "classmap": [
+      "ps_request_quote.php"
+    ]
+  },
+  "config": {
+    "prepend-autoloader": false,
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}

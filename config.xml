@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_request_quote</name>
+    <displayName><![CDATA[Request a Quote]]></displayName>
+    <version>1.0.0</version>
+    <description><![CDATA[Allow customers to request quotes instead of direct purchases. Professional B2B solution.]]></description>
+    <author><![CDATA[Syntax It]]></author>
+    <tab>front_office_features</tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <bootstrap>true</bootstrap>
+    <ps_versions_compliancy>
+        <min>9.0.0</min>
+        <max>9.0.99</max>
+    </ps_versions_compliancy>
+    <dependencies>
+    </dependencies>
+    <confirmation><![CDATA[Are you sure you want to uninstall this module?]]></confirmation>
+</module>

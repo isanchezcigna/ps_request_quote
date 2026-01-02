@@ -1,0 +1,15 @@
+Dear {customer_name},
+
+We are writing to confirm that your quote request has been received successfully.
+
+Request Details:
+- Product: {product_name}
+- Quantity: {quantity}
+- Message: {message}
+
+Our sales team will contact you shortly to provide you with a personalized quote.
+
+If you have any questions, please do not hesitate to contact us.
+
+Best regards,
+{shop_name}

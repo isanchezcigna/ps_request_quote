@@ -1,0 +1,15 @@
+Estimado {customer_name},
+
+Te escribimos para confirmar que tu solicitud de cotización ha sido recibida exitosamente.
+
+Detalles de la solicitud:
+- Producto: {product_name}
+- Cantidad: {quantity}
+- Mensaje: {message}
+
+Nuestro equipo de ventas se pondrá en contacto contigo pronto para proporcionar una cotización personalizada.
+
+Si tienes alguna pregunta, no dudes en contactarnos.
+
+Saludos cordiales,
+{shop_name}

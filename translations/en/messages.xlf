@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="title" resname="title">
+        <source>Request a Quote</source>
+        <target>Request a Quote</target>
+      </trans-unit>
+      <trans-unit id="description" resname="description">
+        <source>Allow customers to request quotes instead of direct purchases. Professional B2B solution.</source>
+        <target>Allow customers to request quotes instead of direct purchases. Professional B2B solution.</target>
+      </trans-unit>
+      <trans-unit id="button_text" resname="button_text">
+        <source>Request a Quote</source>
+        <target>Request a Quote</target>
+      </trans-unit>
+      <trans-unit id="hide_price" resname="hide_price">
+        <source>Hide Price on Quote Products</source>
+        <target>Hide Price on Quote Products</target>
+      </trans-unit>
+      <trans-unit id="hide_buy_button" resname="hide_buy_button">
+        <source>Hide Buy Button (Replace with Quote)</source>
+        <target>Hide Buy Button (Replace with Quote)</target>
+      </trans-unit>
+      <trans-unit id="enable_quote" resname="enable_quote">
+        <source>Enable Quote Button</source>
+        <target>Enable Quote Button</target>
+      </trans-unit>
+      <trans-unit id="quote_button_text" resname="quote_button_text">
+        <source>Quote Button Text</source>
+        <target>Quote Button Text</target>
+      </trans-unit>
+      <trans-unit id="message_optional" resname="message_optional">
+        <source>Message (optional)</source>
+        <target>Message (optional)</target>
+      </trans-unit>
+      <trans-unit id="placeholder" resname="placeholder">
+        <source>Any special request or question?</source>
+        <target>Any special request or question?</target>
+      </trans-unit>
+      <trans-unit id="success_message" resname="success_message">
+        <source>Quote request sent successfully!</source>
+        <target>Quote request sent successfully!</target>
+      </trans-unit>
+      <trans-unit id="error_message" resname="error_message">
+        <source>An error occurred. Please try again.</source>
+        <target>An error occurred. Please try again.</target>
+      </trans-unit>
+      <trans-unit id="must_login" resname="must_login">
+        <source>You must be logged in to request a quote</source>
+        <target>You must be logged in to request a quote</target>
+      </trans-unit>
+      <trans-unit id="new_quote" resname="new_quote">
+        <source>New Quote Request</source>
+        <target>New Quote Request</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
